@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently engaged in learning **Data Science**
 
-- 👨‍💻 Dive into my portfolio website. [https://kautilyamishra.netlify.app/](https://kautilyamishra.netlify.app/)
-
 - 💬 Ask me about **Web Development, CyberSecurity & Cloud Computing**
 
-- 📫 How to reach me **kautilyakamesh3@gmail.com**
+- 👨‍💻 Dive into my portfolio website. [https://kautilyamishra.netlify.app/](https://kautilyamishra.netlify.app/)
+
+- 📫 Reach me at **kautilyakamesh3@gmail.com**
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1-T5NKBIv8PXz0-ClXeZ7so0unjnhvK9p/view?usp=drive_link)
 
