@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=kautilyakameshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="kautilyakameshmishra" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kautilyakameshmishra" alt="kautilyakameshmishra" />
-  </a> 
-</p>
-
 - 🔭 I’m currently working on [MERN-Estate: Real Estate Marketplace](https://github.com/kautilyakameshmishra)
 
 - 👨‍💻 Dive into my portfolio website for detailed insights into my background, skills, experiences and extensive project collection. [Portfolio](https://kautilyamishra.netlify.app/)
