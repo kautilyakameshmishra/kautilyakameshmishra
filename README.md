@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MERN-Estate](https://github.com/kautilyakameshmishra/MERN-Estate)
 
-- 🌱 I’m currently engaged in learning **Data Science**
+- 🌱 I’m currently engaged in learning **MERN Stack**
 
 - 💬 Ask me about **Web Development, CyberSecurity & Cloud Computing**
 
