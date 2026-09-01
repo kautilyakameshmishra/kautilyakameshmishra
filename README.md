@@ -1,35 +1,379 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://kautilyamishra.netlify.app/)
-<h1 align="center">Hi 👋, I'm Kautilya Mishra</h1>
-<h3 align="center">A passionate Web Developer, Cybersecurity & Cloud Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+# 👋 Hi, I'm Kautilya Mishra
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kautilyakameshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="kautilyakameshmishra" /> </p>
+### Quality Analyst | Manual & Functional Testing | QA Engineering
 
-- 🔭 I’m currently working on [MERN-Estate](https://github.com/kautilyakameshmishra/MERN-Estate)
+📍 Jabalpur, Madhya Pradesh, India
+💼 **1.5+ Years of QA Experience**
+🐞 **2,000+ Defects Logged**
+🧪 **5,000+ Test Cases Designed & Executed**
 
-- 🌱 I’m currently engaged in learning **MERN Stack**
+I’m a **Quality Analyst specializing in Manual, Functional, Regression, UAT, System, Integration, Smoke, Sanity, and Exploratory Testing**.
 
-- 💬 Ask me about **Web Development, CyberSecurity & Cloud Computing**
+I focus on understanding requirements, designing comprehensive test scenarios, identifying edge cases, reporting defects with clear reproduction steps, and ensuring software is production-ready.
 
-- 👨‍💻 Dive into my portfolio website. [https://kautilyamishra.netlify.app/](https://kautilyamishra.netlify.app/)
+---
 
-- 📫 Reach me at **kautilyakamesh3@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1-T5NKBIv8PXz0-ClXeZ7so0unjnhvK9p/view?usp=drive_link)
+* 🔍 Quality Analyst with **1.5+ years of professional QA experience**
+* 🧪 Experienced in designing and executing **5,000+ test cases**
+* 🐞 Logged and managed **2,000+ defects**
+* 📋 Strong experience in **BRD, FRD, User Story & Requirement Analysis**
+* 🔄 Experienced with complete **Defect Life Cycle**
+* ✅ Hands-on experience with **Functional, Regression, Smoke, Sanity & UAT Testing**
+* 🏦 Worked on **Digital Banking / Fintech applications**
+* 🤝 Comfortable working with Developers, BAs, Product Owners and Clients
+* 👨‍🏫 Reviewed and mentored junior QA engineers
+* 📊 Experienced in test execution reporting and release-quality tracking
+* 🌱 Currently improving my knowledge of **Automation Testing and modern QA practices**
+* 💼 **Open to QA / Quality Analyst opportunities**
 
-- ⚡ Fun fact **The first alarm clock could only ring at 4 a.m.**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 💼 Professional Experience
+
+### 🏢 Quality Analyst — Logimonk Technologies
+
+**Jan 2025 – Jan 2026 · Jabalpur, Madhya Pradesh**
+
+* Led end-to-end QA activities across product releases.
+* Designed and executed **5,000+ test cases**.
+* Logged and tracked **2,000+ defects** using Azure DevOps.
+* Performed Functional, Regression, Smoke, Sanity, System and UAT testing.
+* Analyzed **BRDs, FRDs and User Stories** to identify requirement gaps.
+* Created test scenarios covering positive, negative, boundary and edge-case conditions.
+* Participated in client calls, product demonstrations and UAT sessions.
+* Reviewed test cases prepared by junior QA engineers.
+* Supported release validation and final QA sign-off activities.
+* Worked closely with developers and stakeholders throughout the Agile SDLC.
+
+**Tech & Tools:**
+`Manual Testing` `Azure DevOps` `Regression Testing` `UAT` `Agile/Scrum` `Requirement Analysis`
+
+---
+
+### 🏢 Digital Quality Engineer — QualityKiosk Technologies Pvt. Ltd.
+
+**Aug 2024 – Jan 2025 · Mumbai, Maharashtra**
+
+* Created comprehensive test plans, scenarios and test cases from business requirements.
+* Tested **digital banking / fintech applications**.
+* Executed Functional, Regression, Smoke, Sanity and UAT testing.
+* Managed complete defect lifecycle using **JIRA**.
+* Maintained test repositories according to sprint-level requirement changes.
+* Prepared test execution reports and quality summaries.
+* Collaborated with development and business teams to ensure product quality.
+
+**Tech & Tools:**
+`JIRA` `Functional Testing` `Regression Testing` `UAT` `Fintech` `Test Reporting`
+
+---
+
+## 🧪 QA & Testing Skills
+
+### Testing
+
+`Manual Testing`
+`Functional Testing`
+`Regression Testing`
+`Smoke Testing`
+`Sanity Testing`
+`Retesting`
+`Integration Testing`
+`System Testing`
+`UAT`
+`UI Testing`
+`Usability Testing`
+`Compatibility Testing`
+`Exploratory Testing`
+
+### Test Design
+
+`Test Planning`
+`Test Case Design`
+`Test Scenario Creation`
+`Positive Testing`
+`Negative Testing`
+`Boundary Value Analysis`
+`Equivalence Partitioning`
+`Edge Case Testing`
+`Requirement Traceability`
+
+### Defect Management
+
+`Bug Reporting`
+`Defect Lifecycle`
+`Severity & Priority`
+`Root Cause Analysis`
+`Defect Retesting`
+`Defect Tracking`
+`Regression Validation`
+
+### Requirement Analysis
+
+`BRD Analysis`
+`FRD Analysis`
+`User Story Analysis`
+`Acceptance Criteria`
+`Gap Analysis`
+`Requirement Validation`
+
+### Agile & Collaboration
+
+`Agile/Scrum`
+`Sprint Testing`
+`UAT Support`
+`Client Communication`
+`Stakeholder Communication`
+`QA Mentoring`
+
+---
+
+## 🛠️ Tools & Technologies
+
 <p align="left">
-<a href="https://linkedin.com/in/74104221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kautilyamishra" height="30" width="40" /></a>
-<a href="https://instagram.com/kautilyakameshmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kautilyakameshmishra" height="30" width="40" /></a>
+
+<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure DevOps"/>
+</a>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" alt="JIRA"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146237.png" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfciayL8Z_uODUu9EvIsZmCwCdEWewv7BtinnUhRmxg&s" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://markkennethcalendario.web.app/images/stacks/express.webp" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="VS Code" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kautilyakameshmishra&show_icons=true&locale=en&layout=compact" height="170" alt="kautilyakameshmishra" /></p>
+## 🔌 API Testing
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kautilyakameshmishra&show_icons=true&locale=en" alt="kautilyakameshmishra" height="170" /></p>
+I have hands-on exposure to API testing and validation using **Postman**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kautilyakameshmishra&" alt="kautilyakameshmishra" /></p>
+### Areas I work with:
+
+* REST APIs
+* HTTP Methods
+* GET / POST / PUT / PATCH / DELETE
+* Request & Response Validation
+* Status Code Validation
+* Headers
+* Query Parameters
+* Path Parameters
+* Request Body
+* JSON Response Validation
+* Authentication
+* API Error Handling
+* Positive & Negative API Testing
+
+---
+
+## 🗄️ Database Testing
+
+Basic experience with SQL and database validation.
+
+### Skills
+
+* SQL Queries
+* SELECT
+* WHERE
+* ORDER BY
+* GROUP BY
+* JOINs
+* Data Validation
+* CRUD Operations
+* Backend Data Verification
+
+---
+
+## 📂 Projects
+
+### 🏠 MERN Estate
+
+A full-stack real-estate web application built using the MERN stack.
+
+**Repository:**
+https://github.com/kautilyakameshmishra/MERN-Estate
+
+**Technology:**
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+## 🌐 Portfolio
+
+Check out my complete portfolio to learn more about my experience, skills, projects and resume.
+
+### 👉 https://kautilyamishra.netlify.app/
+
+---
+
+## 📄 Resume
+
+### 👉 View My Resume
+
+**Kautilya Mishra — Quality Analyst**
+
+Experience in:
+
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* UAT
+* Test Case Design
+* Defect Management
+* Requirement Analysis
+* Azure DevOps
+* JIRA
+* Agile/Scrum
+
+---
+
+## 📊 QA Highlights
+
+| Metric                     |    Achievement |
+| -------------------------- | -------------: |
+| 🧪 Test Cases              |     **5,000+** |
+| 🐞 Defects Logged          |     **2,000+** |
+| 💼 Professional Experience | **1.5+ Years** |
+| 🏢 Companies               |          **2** |
+| 🎓 B.Tech CSE              |  **8.25 CGPA** |
+| 🚀 Post-Release Defects    |  **Near-Zero** |
+
+---
+
+## 🎯 What I Bring to a QA Team
+
+```text
+Requirements
+     ↓
+Requirement Analysis
+     ↓
+Test Planning
+     ↓
+Test Scenario Design
+     ↓
+Test Case Design
+     ↓
+Test Execution
+     ↓
+Defect Reporting
+     ↓
+Bug Fix Verification
+     ↓
+Regression Testing
+     ↓
+UAT
+     ↓
+Release Validation
+```
+
+My goal is not simply to **find bugs**.
+
+My goal is to understand **how the product can fail before the customer discovers it**.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kautilyakameshmishra&show_icons=true&locale=en" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kautilyakameshmishra&show_icons=true&locale=en&layout=compact" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kautilyakameshmishra" alt="GitHub Streak"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/kautilya-mishra/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
+
+<a href="https://instagram.com/kautilyakameshmishra" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+📧 **Email:** [kautilyamishra13@outlook.com](mailto:kautilyamishra13@outlook.com)
+📍 **Location:** Jabalpur, Madhya Pradesh, India
+
+---
+
+## 💼 Open to Work
+
+I'm currently looking for opportunities in:
+
+* **Quality Analyst**
+* **QA Engineer**
+* **Manual Tester**
+* **Software Tester**
+* **Functional Tester**
+* **UAT Tester**
+* **QA Analyst**
+
+I'm particularly interested in roles where I can contribute to **end-to-end quality assurance, test strategy, defect prevention and continuous improvement**.
+
+---
+
+### 🐞 I don't just test whether software works.
+
+### I test how it can fail.
+
+---
+
+<p align="center">
+
+**Thanks for visiting my profile! ⭐**
+
+</p>
